@@ -11,7 +11,7 @@ int y ;
 
 const int x = 25525534;
 
-const int input_length = 1002;
+const int input_length = 2222;
 
 char v2[input_length];
 
