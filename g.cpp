@@ -5,6 +5,8 @@
 #include <fstream>
 using namespace std;
 
+#include <atom>
+
 int oisdg;
 
 int y ;
