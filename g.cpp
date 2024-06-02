@@ -48,6 +48,9 @@ int grab_input_from_daemon()
 
 int main ()
 {
+
+    int a ;
+    
   string c;
   string c2;
   c ="ine r. 342 3842p2 3io oi";
