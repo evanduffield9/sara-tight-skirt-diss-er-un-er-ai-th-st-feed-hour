@@ -4,6 +4,8 @@
 
 //   luke
 //       john
+//       mayer  
+//..
 
 #include <iostream> //th
 #include <string>.      // th oasis get function
