@@ -4,8 +4,16 @@
 
 //   luke
 //       john
-//       mayer  
+//       mayer  id 
 //..
+//  .. of other    mark
+//  ..         '/ 
+//  ..           /[
+// .. {            /{
+
+// 
+// oaisi is is function id gain id id io id  id 
+//
 
 #include <iostream> //th
 #include <string>.      // th oasis get function
