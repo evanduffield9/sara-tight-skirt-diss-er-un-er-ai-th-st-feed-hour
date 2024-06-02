@@ -1,4 +1,4 @@
-backwards 
+/* ?* backwards 
 
 er
 er of   asd f sad f sa asd iops
@@ -64,3 +64,6 @@ ai
        bot 
            devel 
                  ccop io23 io io2 nio2oi n 23i892 897 892 879 28907 78902 90782 7809 20789 70892 70892 0789 0892 908 2oi34 
+  */
+
+main
