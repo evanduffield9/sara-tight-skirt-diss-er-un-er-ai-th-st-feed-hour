@@ -1,4 +1,4 @@
 
 int main_fia(){
-  return
+  return 1;
     }
