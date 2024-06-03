@@ -1,10 +1,10 @@
-// Your First C++ Program
+// Your First C++ Program 
 // ma
 //   mark
 
 //   luke
 //       john
-//       mayer  id 
+//       mayer  id 🍷
 //..
 //  .. of other    mark
 //  ..         '/ 
@@ -26,7 +26,7 @@ int oisdg;
 
 int y ;
 
-const int x = 25525534;
+const int x = 25525534; //🇲🇴
 
 const int input_length = 2222;
 
@@ -68,7 +68,7 @@ int main ()
     
   string c;
   string c2;
-  c ="ine r. 342 3842p2 3io oi";
+  c ="ine r. 342 3842p2 3io oi"; //🇲🇴
   c2= "int 234892 8 780929829ipo2nio pn n2opin oi2oio2 iop ino2 on";
   int x= grab_input();
 
