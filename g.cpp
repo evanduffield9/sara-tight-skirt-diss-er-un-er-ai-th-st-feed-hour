@@ -1,18 +1,22 @@
+//
+
+// matthew mark luke john 1corithians 
+
 // Your First C++ Program 
 // ma
-//   mark
+//   mark 🐯🐭🐹
 
 //   luke
 //       john
-//       mayer  id 🍷
+//       mayer  id 🍷 🙊🦁🐮🐰🦊🐻
 //..
-//  .. of other    mark
+//  .. of other    mark ℊ🐙🦑🕸️🐞🐻🐻
 //  ..         '/ 
 //  ..           /[
-// .. {            /{
+// .. {            /{🐥🙉🐯🦁🐹
 
 // 
-// oaisi is is function id gain id id io id  id 
+// oaisi is is function id gain id id io id  id ™ 🐯🐭🐹
 //
 
 #include <iostream> //th
@@ -26,7 +30,7 @@ int oisdg;
 
 int y ;
 
-const int x = 25525534; //🇲🇴
+const int x = 25525534; //🇲🇴 
 
 const int input_length = 2222;
 
@@ -58,7 +62,7 @@ int grab_input_from_daemon()
 
     return x;
 
-    //return x/;
+    //return x/;🐨🐱🐭
 }
 
 int main ()
@@ -78,7 +82,7 @@ int main ()
 
   cout << v2 << endl;
 
-  //;;oisdg io pioa npiop inonoi nipo  
+  //;;oisdg io pioa npiop inonoi nipo 🙉🐯🦁
 
   //input 
   //io.  
