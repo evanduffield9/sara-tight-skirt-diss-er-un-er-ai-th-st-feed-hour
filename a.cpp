@@ -1,15 +1,15 @@
 /*
-  oinet oashi ias ind pnoa o s inoaioii
+  oinet oashi ias ind pnoa o s inoaioii 🥑🥨
 
 */
 
 /*
-  correct
+  correct 🦕🦋
 
   id id   id id 
 */
 
 int main(){
 
-   gimp()
+   gimp()// 🐭🐱🦋🦕🧄🫒🥨😁🐶😃
 }
