@@ -1,4 +1,75 @@
+//version 
+
+// vote
+
+//     donut 
+//    uf    uf 
+//   if       co th aware techiglitch
+
+// trying to 
+
+// rapture
+
+// ok
+
+// copy paste 
+
+// ok
+
+// we'll see
+
+//ok 
+
+// dog 🐶🌘💫🥑🫒🍞🧇🥖🥓🧄🧅🥨🥩
+
+// elixer
+//       🌶️🫑🍅🍆🥑🍌
+// 💑🧍🏻🏃🏼‍♀️‍➡️             🏃‍♀️🏃🏻
+//  🦟🦋🐌                🐌🐞
 //
+// 🐙🐞
+//     🐗🐥🙉🙊🐒🐔🐧🐻🦊🐰🐹🐭🐱🐶🐻‍❄️🐵🐤🦇🐛🦋🦗🦖🦕
+//
+//
+//
+//
+//
+//
+//
+//
+// subwhat mode
+
+int subwhat_mode()
+{
+    return 1;
+}
+
+// princess 🍑
+//               yoshi 
+//    mario            luigi
+//         set              set 
+//            x mode           y mode
+
+//
+// sea 🌵🌘🌪️🌧️💧💦❄️☃️🫚🍳🧈🥞🥞🧇🍞🧄🥦
+
+// mark kelly // ⚡️⚡️⚡️🌙🌖🌗🌞🌹🍄🎍🍀🌲
+
+// argeu 
+//      it common  🌵🎄🌲🎍🌹🍄🥀🌝🌑🌘🌗🌍🌎⚡️✨
+//      ..
+//     ee
+//  ..   ke oi2 io3 ino2 nopi pino2 pio ipo2p oi iop2n oi 2o o 2oi3oi n niop2n iop2 pnoi pion2 iono i2 io inop2 ipn pion23 nip ipn23 ipno4 io23 o 2389278989
+
+// argue what fake fakte wire what money 🐾🌼🦦🎍🧝🏻‍♀️🧝🏼🐠🐢🍀🦘🐆🦧🐳🦕🐠🪼🐬🐟👨🏻‍🦼‍➡️👩🏻‍🦯‍➡️👓🥽🌒🌹🎍🪴🌳
+
+// wrap what 
+/* 
+  what agate 
+             flue 
+                  it 
+    */
+
 
 // matthew mark luke john 1corithians 
 
@@ -19,8 +90,8 @@
 // oaisi is is function id gain id id io id  id ™ 🐯🐭🐹
 //
 
-#include <iostream> //th
-#include <string>.      // th oasis get function
+#include <iostream> //th  🦨🎍🦦🦡☘️🪹🌷
+#include <string>.      // th oasis get function 🐇🌳☘️
 #include <fstream>
 using namespace std;
 
