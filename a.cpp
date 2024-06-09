@@ -8,3 +8,8 @@
 
   id id   id id 
 */
+
+int main(){
+
+   gimp()
+}
