@@ -1,7 +1,11 @@
-🪚🔩
-right 
-      right 
-            elbow
+/*
+  generatl 
+*/
+
+/*🪚🔩
+right      ha fo 
+      right      ha fo 
+            elbow      
                   right 
 
 
@@ -176,7 +180,7 @@ ha
 ha
 ha
 ha
-ha
+ha */
 a
 ah
 aha
