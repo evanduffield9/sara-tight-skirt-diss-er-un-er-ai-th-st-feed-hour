@@ -1,36 +1,61 @@
+gu
+
+// city
+   they gu
+
+hahah
+ha   th 
+h         legal thought if so if go if gu
+h          
+h        it 
+h     it 
+h city
+h     amend
+ha
+ha pspicy margaarita
+hha
+ha
+hah
+ ioino2 io nio2 nio ino2 ino 2ino
+
+ha   ib jessica they 
+ha it
+
 /*
-  generatl 
+  generatl city amount among along
 */
 
 /*🪚🔩
 right      ha fo 
-      right      ha fo 
+      right      ha fo       right along
             elbow      
-                  right 
-
-
-🌻🌞
+                  right long
+ha
+ha       center ib
+ha
+ba  
+🌻🌞 ha center ground city
 
 elbow
      what
-          steak 
+          steak  server th th 
 
 🌘🌗🌖🌸💐🌷🌹🥀
 
 elbow 
       what 
-          stealk 
+          stealk tight
 🌹🥀🍄‍🟫🐚🎋🍃🌴🪵
 
 elbow 
      what
-          mood 
+          mood elobow tight 
 🍀🎍🌲🌳🪴🎋🪵🍃
 
-elbow 
+elbow    leg
      what 
          model 
-🪨🐚🪸🍃🌲🎄🍀
+🪨🐚🪸🍃🌲🎄🍀   th legl
 
 kate
     moss
