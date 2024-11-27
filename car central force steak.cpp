@@ -1,4 +1,30 @@
-gu
+th
+  messahge
+
+th
+  coin
+
+hair
+    message
+
+th
+  message
+
+th
+  boast
+
+th
+  direct
+
+city
+    amend
+   th    th city aemnd hair
+
+th
+th
+  labor th dress city
+
+gu gim[ gimp session
 
 // city
    they gu
