@@ -1,6 +1,8 @@
-// the rom
 
 // the skeleton
+
+// the rom
+
 ..              
 
 // the pixel
