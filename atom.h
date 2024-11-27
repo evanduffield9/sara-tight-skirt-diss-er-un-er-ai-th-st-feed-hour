@@ -4,10 +4,10 @@
 ..              
 
 // the pixel
-
+            pixel
 // the       id
-
-//low higher
+                
+//low higher    id script
 int b = 500;
 // 🌵🎄🐀🐿️🦔🐾🐉🐲
 
