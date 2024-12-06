@@ -1,28 +1,39 @@
-th
-  messahge
+seen er 
+
+wave
+
+tight
+kiss
+
+kiss
+
+coin message tight seen
 
 th
-  coin
+  cat messahge cat define group editor wave tight aside pattern thing
+
+th
+  coin current
 
 hair
-    message
+    message corrent
 
 th
-  message
+  message wave kiss
 
 th
-  boast
+  boast wave
 
 th
-  direct
+  direct edit go wave
 
-city
-    amend
+city      edot go
+    amend                  edit it 
    th    th city aemnd hair
 
 th
 th
-  labor th dress city
+  labor th dress city edit it     phase current
 
 gu gim[ gimp session
 
