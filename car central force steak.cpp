@@ -1,3 +1,12 @@
+      total
+affirm
+
+total
+
+by
+
+force
+
 seen er 
 
 wave
