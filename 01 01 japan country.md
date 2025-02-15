@@ -1,3 +1,7 @@
+join
+
+accent
+
 japan
 
 blow install
