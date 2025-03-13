@@ -1,4 +1,18 @@
-cooolste  gh asodg ipoas dgipo ansgdiop iaspogd iopasdg iopasdg89289 8723897 87923897298798 0720987 
+is it online? 
+
+what from 
+
+understanding the thoery of manlike 
+
+understanding of 
+
+the contest
+
+you said
+
+undertstanding the 
+
+cooolste  gh asodg ipoas dgipo ansgdiop iaspogd iopasdg iopasdg89289 8723897 87923897298798 0720987  is it 
 
 cool next step 
 
