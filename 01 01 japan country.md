@@ -1,3 +1,20 @@
+long
+
+eric 
+
+capable
+
+understood of thing 
+
+union
+
+merge union test
+                   
+                   merge union tewst 
+hi situation school
+
+hi power
+
 among
 
 cities
