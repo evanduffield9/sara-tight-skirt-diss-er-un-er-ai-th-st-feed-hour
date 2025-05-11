@@ -1,10 +1,14 @@
 ideal
+![a7d935b4fc54fcf5c5a304540a3f5c01](https://github.com/user-attachments/assets/9a834ffb-be6e-4e4e-a87f-aa5e2ae7d49d)
 
 argee
+![ffcb20a11411418e0a5e39f3f548c42e (1)](https://github.com/user-attachments/assets/6ebf672c-5d94-4702-a817-08254c59db56)
 
 contents
+![emotional-hispanic-girl-crying-front-600nw-2141380895 copy](https://github.com/user-attachments/assets/ecf46770-0ce0-439d-9e99-11263130388c)
 
 also
+![1acf6ffc10c7ef89fbce7ab063787c2d](https://github.com/user-attachments/assets/39a88739-08b5-48d1-8031-327367436d3a)
 
 winner
 
