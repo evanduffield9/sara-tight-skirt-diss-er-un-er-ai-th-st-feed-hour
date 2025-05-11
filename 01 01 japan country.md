@@ -10,9 +10,11 @@ contents
 also
 ![1acf6ffc10c7ef89fbce7ab063787c2d](https://github.com/user-attachments/assets/39a88739-08b5-48d1-8031-327367436d3a)
 
-winner
+winner![555cfa4fafae-penelope-cruz-big-hair-t](https://github.com/user-attachments/assets/19f6ec0e-1c49-4322-b7a1-44af19e2d545)
 
-panty
+
+panty![j8hbb01l56y91](https://github.com/user-attachments/assets/d310e265-bcb9-4cb6-bb64-0d166d47eb72)
+
 
 factual
 
