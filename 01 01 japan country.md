@@ -1,3 +1,11 @@
+society
+
+you tribe
+
+you acarry
+
+you arrive
+
 panties
 
 ideal
