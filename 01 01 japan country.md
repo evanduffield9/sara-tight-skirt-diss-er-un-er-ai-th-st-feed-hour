@@ -1,3 +1,5 @@
+trade society for given
+
 next
     to,e
     t
