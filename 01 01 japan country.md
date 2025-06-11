@@ -1,3 +1,7 @@
+carry
+
+seat
+
 trade society for given
 
 next
