@@ -1,14 +1,16 @@
-carry
-     given
+     soul
      
-seat       forcast
-
-trade society for given
-
-next
-    to,e
-    t
-    t
+     carry
+          given
+          
+     seat       forcast
+     
+     trade society for given
+     
+     next
+         to,e
+         t
+         t
 
     t
 
