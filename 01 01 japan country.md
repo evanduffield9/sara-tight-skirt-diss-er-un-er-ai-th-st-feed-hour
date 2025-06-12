@@ -1,6 +1,7 @@
 carry
-
-seat
+     given
+     
+seat       forcast
 
 trade society for given
 
