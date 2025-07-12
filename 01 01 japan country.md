@@ -205,3 +205,12 @@ what![pokemon-cards-are-designed-with-an-unexpected-philosophy_t3mf 1280](https:
     notes
 
     pad
+![yma5wuk73hm01](https://github.com/user-attachments/assets/5e1a3b6d-0606-4839-8323-0b5da7643966)
+![Picasso triggerfish arp](https://github.com/user-attachments/assets/b40dbc5f-c289-437e-92b7-4ec6626fad3c)
+![images (6)](https://github.com/user-attachments/assets/d078fbba-04dc-409a-a364-b201cd3ee38d)
+![triggerfish-feature-pinktail](https://github.com/user-attachments/assets/ad11f0db-5a17-40ce-95db-e86e323e1712)
+
+
+
+![dg6m855-cac7f3ed-aa75-4f99-ad39-8ceb416d5fba](https://github.com/user-attachments/assets/1eebe3e5-caad-4456-acc2-c567cd14d1cc)
+
